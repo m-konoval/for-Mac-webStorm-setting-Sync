@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home" />
+  </component>
+</application>
