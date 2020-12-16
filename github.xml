@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="a76ad95d-dbe9-409a-ba44-073e7ec99bc1" name="see-mik">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
