@@ -2,6 +2,7 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="_Mike Copy" />
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -27,5 +28,8 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
